@@ -1,8 +1,8 @@
 # 11501_CS203A: 資料結構 (Data Structures)
 
 ## 學生資訊 (Student Information)
-* **姓名 (Name):** [李宥樑]
-* **學號 (Student ID):** [1141512]
+* **姓名 (Name):** 李宥樑
+* **學號 (Student ID):** 1141512
 * **個人網頁 (Personal Website):** [My GitHub Page](https://lianyinyukong.github.io/)
 
 ## 課程資訊 (Course Information)
