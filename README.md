@@ -7,7 +7,7 @@
 
 ## 課程資訊 (Course Information)
 * **課程名稱:** 資料結構 (Data Structures)
-* **課程代碼:** 11501_CS203A
+* **課程代碼:** CS203A
 * **學期:** 115學年度第1學期
 
 ## 儲存庫目的 (Repository Description & Purpose)
