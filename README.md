@@ -6,7 +6,7 @@
 * **個人網頁 (Personal Website):** [My GitHub Page](https://lianyinyukong.github.io/)
 
 ## 課程資訊 (Course Information)
-* **課程名稱:** 資料結構 (Data Structures)
+* **課程名稱:** 資料結構
 * **課程代碼:** CS203A
 * **學期:** 115學年度第1學期
 
