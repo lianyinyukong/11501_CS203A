@@ -15,11 +15,10 @@
 1. 作為本學期「資料結構」課程的學習歷程記錄。
 2. 存放與管理課堂作業、程式碼練習以及專案檔案。
 
-## 🔗 專案相關連結 (Project Links)
+## 專案相關連結 (Project Links)
 * **GitHub account:** [https://github.com/lianyinyukong/](https://github.com/lianyinyukong/)
 * **Course Repository:** 11501_CS203A
 * **Course Repository URL:** [https://github.com/lianyinyukong/11501_CS203A](https://github.com/lianyinyukong/11501_CS203A)
-* **Personal Website Repository:** lianyinyukong.github.io
 * **Personal Website Repository URL:** [https://github.com/lianyinyukong/lianyinyukong.github.io](https://github.com/lianyinyukong/lianyinyukong.github.io)
 * **GitHub Pages:** [https://lianyinyukong.github.io/](https://lianyinyukong.github.io/)
 
